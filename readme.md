@@ -4,10 +4,10 @@
 
 |             | Link                                                              |
 | ----------- | ----------------------------------------------------------------  |
-| Twitter     | [@TAKAKING22](https://twitter.com/sat0tabe)                       |
-| Qiita       | [TAKAKING22](http://qiita.com/tbtsts)                             |
-| SlideShare  | [Takao Oyobe](https://www.slideshare.net/sat0tabe/presentations)  |
-| Speakerdeck | [TAKAKING22](https://speakerdeck.com/sat0tabe/)                   |
+| Twitter     | [@sat0tabe](https://twitter.com/sat0tabe)                       |
+| Qiita       | [sat0tabe](http://qiita.com/tbtsts)                             |
+| SlideShare  | [sat0tabe](https://www.slideshare.net/sat0tabe/presentations)  |
+| Speakerdeck | [sat0tabe](https://speakerdeck.com/sat0tabe/)                   |
 | Wantedly    | [Wantedly](https://www.wantedly.com/users/18351552)               |
 | LinkedIn    | [LinkedIn](https://www.linkedin.com/in/satoshi-tabeta-1403a3176/) |
 
@@ -50,15 +50,7 @@
 
 ## 強み
 
-- 前例がないことを切り開くこと
-- ビジネス・エンジニアリング・チームのそれぞれ多角的な視座で考えて判断して行動すること
-- 新規事業の立ち上げ
-- クリティカルシンキング
-- よいチームを作ること
-- チームや組織の文化をつくること
-- 人を巻き込むこと
 - 人を元気にすること／自分が元気であること
-- エンジニアコミュニティに発信すること
 
 ## やったことはないが興味があるもの
 
